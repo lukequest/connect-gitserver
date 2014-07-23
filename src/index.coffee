@@ -1,3 +1,3 @@
 ###
-  connect-gitserver main module file.
+  express-gitserver main module file.
 ###

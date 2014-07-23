@@ -1,9 +1,9 @@
 {
-  "name": "connect-gitserver",
-  "description": "Connect/Express middleware for serving git repositories.",
+  "name": "express-gitserver",
+  "description": "Express middleware for serving git repositories.",
   "version": "0.2.1",
   "main": "./lib/index.js",
-  "repository": "https://github.com/lukequest/connect-gitserver.git",
+  "repository": "https://github.com/lukequest/express-gitserver.git",
   "dependencies": {
     "http-duplex": "~0.0.2",
     "through": "~2.3.4",

@@ -1,4 +1,4 @@
-connect-gitserver
+express-gitserver
 =================
 
-Connect/Express middleware for serving git repositories.
+Express middleware for serving git repositories.
