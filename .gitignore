@@ -1,0 +1,29 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.7z
+*.map
+*.js
+
+pids
+logs
+results
+uploads
+
+# Ignore project and IDE specific stuff
+./lib
+.idea
+npm-debug.log
+lib
+docs
+
+# Ignore test scripts
+src/test*
+
+# Ignore node modules
+node_modules/*
