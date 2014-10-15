@@ -18,7 +18,6 @@ uploads
 # Ignore project and IDE specific stuff
 .idea
 npm-debug.log
-lib
 docs
 
 # Ignore test scripts
