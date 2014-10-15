@@ -8,7 +8,6 @@ lib-cov
 *.gz
 *.7z
 *.map
-*.js
 
 pids
 logs
