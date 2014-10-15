@@ -16,7 +16,6 @@ results
 uploads
 
 # Ignore project and IDE specific stuff
-./lib
 .idea
 npm-debug.log
 lib
